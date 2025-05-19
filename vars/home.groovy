@@ -1,3 +1,4 @@
-fun call() {
-  echo 'hi welocome'
+def call() {
+  echo 'hi welcome'
 }
+
